@@ -26,12 +26,12 @@ A modern, responsive website for home tuition services in Wah Cantt, Pakistan. B
 ## 🚀 Quick Start
 
 ### View Live Website
-Visit the live website: [Your GitHub Pages URL here]
+Visit the live website: https://msultanularifeen.github.io/Home-Tuition/
 
 ### Run Locally
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/tuition-website.git
+git clone https://github.com/Msultanularifeen/Home-Tuition.git
 ```
 
 2. Open `index.html` in your browser:
